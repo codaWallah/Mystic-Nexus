@@ -5,7 +5,7 @@ Welcome to **CipherMystic**, a cutting-edge platform where innovation meets cybe
 ---
 
 ## 🌐 **Website Overview**  
-**URL**: [https://ciphermystic.me/](CipherMystic)  
+**URL**: [https://ciphermystic.me/]
 
 CipherMystic is more than just a website—it's a dynamic hub for cybersecurity enthusiasts, developers, and blockchain innovators. Here's what you can explore:  
 
@@ -44,9 +44,6 @@ Collaborate, learn, and grow with a vibrant community of cybersecurity experts a
 
 ```plaintext
 📁 ciphermystic/  
-├── 📂 assets/        # Images, icons, and static assets  
-├── 📂 css/           # Styling and animations  
-├── 📂 js/            # JavaScript functionality  
-├── 📂 templates/     # HTML pages for the website  
-├── 📂 tools/         # Custom cybersecurity tools and utilities  
+├── 📂 assets/vendor        # Images, icons, and static assets  
 └── README.md         # Project overview and guidelines
+
