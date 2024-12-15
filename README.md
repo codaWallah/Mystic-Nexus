@@ -40,6 +40,52 @@ Collaborate, learn, and grow with a vibrant community of cybersecurity experts a
 
 ---
 
+🤝 Contributing
+
+We welcome contributions from developers and cybersecurity enthusiasts. Here’s how you can get involved:
+
+1. Fork the repository.
+
+
+2. Clone your forked repo:
+
+git clone 
+
+https://github.com/your-username/ciphermystic.git
+
+
+3. Make your changes and test them.
+
+
+4. Submit a pull request for review.
+
+
+
+
+---
+
+📩 Contact & Feedback
+
+Got suggestions or need support? Reach out to us:
+
+Email: anashmohd611@gmail.com
+
+LinkedIn: MOHD.ANASH
+
+Twitter: @noida22557
+
+
+Let’s build a safer and smarter digital future together!
+
+
+---
+
+🌟 Support Us
+
+If you find this project valuable, consider giving us a ⭐ on GitHub and sharing it with your network.
+
+Stay Secure, Stay Inspired!
+
 ## 📂 **Repository Structure**  
 
 ```plaintext
